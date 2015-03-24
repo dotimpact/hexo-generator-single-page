@@ -1,0 +1,16 @@
+{
+  "name": "hexo-generator-single-page",
+  "version": "0.0.1",
+  "description": "Custom single page generator for Hexo",
+  "main": "index",
+  "directories": {
+    "lib": "./lib"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TANAKA Kotaro",
+  "license": "ISC"
+}
